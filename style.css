@@ -1,0 +1,29 @@
+body{
+    margin: 200px 500px 60px 400px;
+    border: 1px solid ;
+    box-shadow: 0 0 15px 0px black;
+    
+
+    background-image: url("https://i.pinimg.com/originals/0f/8b/b6/0f8bb64869f96a1000c354d7a9d879a6.jpg");
+       
+}
+
+h1{
+    text-align: center
+    ;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+   
+  background-color: darkturquoise;
+    
+}
+
+p{
+font-size: 20px;
+ background-color: darkturquoise;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+ 
+}
+
+
